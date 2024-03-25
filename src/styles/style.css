@@ -1,0 +1,10 @@
+.todo-text {
+    /* Add your default styles for the task text here */
+    cursor: pointer; /* Optional: Show pointer cursor on hover for clickable effect */
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    /* Add any additional styles for completed tasks here */
+  }
+  
